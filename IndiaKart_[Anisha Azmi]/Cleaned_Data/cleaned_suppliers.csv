@@ -1,0 +1,201 @@
+supplier_id,supplier_name,contact_person,email,phone,city,state,pincode,category,gstin,payment_terms_days,rating,created_date,is_active
+SUP0001,Iyer Elec Pvt Ltd,Harish Iyer,contact@iyerele.com,9362950628,Delhi,Delhi,334053,Electronics,14TRXCK1488C4Z9,15,4.1,2023-05-22,1
+SUP0002,Sharma Offi Pvt Ltd,Mohit Sharma,contact@sharmaoff.com,9914763202,Ahmedabad,Gujarat,267414,Office Supplies,32KHFTC7224C6Z5,15,4.5,2023-03-25,1
+SUP0003,Choudhury Beau Pvt Ltd,Nandini Choudhury,contact@choudhurybea.com,9764130526,Pune,Maharashtra,479201,Beauty & Health,28EBRUZ4814W7Z5,60,4.3,2022-12-27,1
+SUP0004,Choudhury Fash Pvt Ltd,Vikram Choudhury,contact@choudhuryfas.com,9283758720,Chennai,Tamil Nadu,660086,Fashion,33GMHYR4598R1Z4,15,4.6,2023-01-15,1
+SUP0005,Patil Spor Pvt Ltd,Kiran Patil,contact@patilspo.com,9636045484,Jaipur,Rajasthan,514850,Sports & Fitness,30LGGOG8019X7Z6,30,5.0,2022-09-02,1
+SUP0006,Choudhury Fash Pvt Ltd,Deepak Choudhury,contact@choudhuryfas.com,9271779360,Mumbai,Maharashtra,542666,Fashion,29BJZNZ1188R2Z9,45,4.5,2022-12-15,1
+SUP0007,Arora Elec Pvt Ltd,Geeta Arora,contact@aroraele.com,9382811832,Ahmedabad,Gujarat,624902,Electronics,34EXWHQ4258D3Z9,15,4.2,2023-03-01,0
+SUP0008,Nair Book Pvt Ltd,Akash Nair,contact@nairboo.com,9709194872,Chennai,Tamil Nadu,182582,Books,12TVZND8787Y3Z5,60,4.9,2023-03-27,1
+SUP0009,Patil Toys Pvt Ltd,Ashish Patil,contact@patiltoy.com,9500957212,Chennai,Tamil Nadu,559381,Toys & Baby,26LGBAO4608A1Z4,15,4.8,2022-12-10,1
+SUP0010,Mehta Book Pvt Ltd,Suresh Mehta,contact@mehtaboo.com,9876693898,Ahmedabad,Gujarat,698782,Books,28MUUEC8062J7Z8,15,4.3,2023-05-20,1
+SUP0011,Tiwari Fash Pvt Ltd,Manish Tiwari,contact@tiwarifas.com,9304235259,Kolkata,West Bengal,662336,Fashion,24DEMWB2604B9Z1,15,4.9,2022-10-23,1
+SUP0012,Singh Toys Pvt Ltd,Sheetal Singh,contact@singhtoy.com,9276777762,Hyderabad,Telangana,497382,Toys & Baby,10ZGULK8973E5Z4,15,4.2,2023-03-28,1
+SUP0013,Mukherjee Offi Pvt Ltd,Sanjay Mukherjee,contact@mukherjeeoff.com,9670292350,Mumbai,Maharashtra,265080,Office Supplies,11YCEPR4853K4Z1,15,3.8,2023-04-18,1
+SUP0014,Ahuja Book Pvt Ltd,Ashish Ahuja,contact@ahujaboo.com,9437352358,Chennai,Tamil Nadu,350280,Books,18KRHIT2188A2Z2,30,4.0,2022-08-30,1
+SUP0015,Mishra Spor Pvt Ltd,Neha Mishra,contact@mishraspo.com,9570497096,Hyderabad,Telangana,669605,Sports & Fitness,32HZUNR5905Y2Z3,45,3.2,2022-08-17,1
+SUP0016,Ahuja Offi Pvt Ltd,Kiran Ahuja,contact@ahujaoff.com,9468164906,Chennai,Tamil Nadu,313487,Office Supplies,31QGMXV2512Q5Z1,15,3.7,2022-08-29,1
+SUP0017,Roy Auto Pvt Ltd,Dhruv Roy,contact@royaut.com,9702269164,Ahmedabad,Gujarat,110139,Automotive,13BWXOV3426L1Z5,45,4.8,2022-07-14,1
+SUP0018,Tripathi Spor Pvt Ltd,Jyoti Tripathi,contact@tripathispo.com,9536344399,Delhi,Delhi,750810,Sports & Fitness,33EYWZV7755A6Z7,30,3.5,2023-06-18,1
+SUP0019,Sen Book Pvt Ltd,Kavya Sen,contact@senboo.com,9475442872,Ahmedabad,Gujarat,420015,Books,35WFRKH2137Z5Z6,60,4.4,2023-03-25,1
+SUP0020,Menon Home Pvt Ltd,Vijay Menon,contact@menonhom.com,9141078352,Chennai,Tamil Nadu,213668,Home & Kitchen,29LSIPN7311X4Z5,15,4.4,2022-06-24,1
+SUP0021,Kumar Spor Pvt Ltd,Rohit Kumar,contact@kumarspo.com,9813219781,Hyderabad,Telangana,446239,Sports & Fitness,29IWSHI7691I5Z9,30,3.4,2023-05-30,1
+SUP0022,Rao Offi Pvt Ltd,Varun Rao,contact@raooff.com,9536019893,Bengaluru,Karnataka,674553,Office Supplies,10HFUPI8238L4Z9,60,4.6,2022-09-18,1
+SUP0023,Sethi Spor Pvt Ltd,Ananya Sethi,contact@sethispo.com,9352188235,Jaipur,Rajasthan,425498,Sports & Fitness,17UDBZP2193L4Z7,60,3.8,2022-09-07,1
+SUP0024,Yadav Toys Pvt Ltd,Kunal Yadav,contact@yadavtoy.com,9963406382,Delhi,Delhi,643118,Toys & Baby,24BGWLU9702Z6Z8,60,4.7,2023-03-31,1
+SUP0025,Sethi Groc Pvt Ltd,Meera Sethi,contact@sethigro.com,9365471644,Ahmedabad,Gujarat,768636,Grocery,18TNQHC5681G6Z6,15,3.3,2022-10-20,1
+SUP0026,Das Fash Pvt Ltd,Ravi Das,contact@dasfas.com,9455281184,Hyderabad,Telangana,668969,Fashion,24KFKXP1320W7Z8,15,4.9,2022-11-23,1
+SUP0027,Bhatia Auto Pvt Ltd,Harish Bhatia,contact@bhatiaaut.com,9686405096,Surat,Gujarat,732556,Automotive,17MHMKR7624S8Z3,15,4.8,2023-04-23,1
+SUP0028,Sen Home Pvt Ltd,Pallavi Sen,contact@senhom.com,9295130056,Surat,Gujarat,152727,Home & Kitchen,18JFITJ7906G2Z8,15,4.5,2022-07-20,1
+SUP0029,Tiwari Elec Pvt Ltd,Manish Tiwari,contact@tiwariele.com,9121882877,Mumbai,Maharashtra,751517,Electronics,14GMCYM5198T3Z2,30,4.9,2022-08-18,0
+SUP0030,Ahuja Toys Pvt Ltd,Rajesh Ahuja,contact@ahujatoy.com,9312954978,Jaipur,Rajasthan,179688,Toys & Baby,28RQCUW2983U1Z6,60,4.3,2022-07-29,1
+SUP0031,Roy Groc Pvt Ltd,Anjali Roy,contact@roygro.com,9488896443,Surat,Gujarat,766459,Grocery,24SLTZH9817U8Z7,45,3.6,2022-10-27,1
+SUP0032,Bajaj Groc Pvt Ltd,Varun Bajaj,contact@bajajgro.com,9817461907,Hyderabad,Telangana,497399,Grocery,20AWEFU6576H5Z9,15,4.0,2022-09-29,1
+SUP0033,Nair Auto Pvt Ltd,Ishaan Nair,contact@nairaut.com,9841536135,Ahmedabad,Gujarat,599219,Automotive,30SLAHK4986H6Z8,45,3.9,2023-04-01,1
+SUP0034,Reddy Beau Pvt Ltd,Meera Reddy,contact@reddybea.com,9229553265,Chennai,Tamil Nadu,301939,Beauty & Health,20DNTEF8933H9Z5,15,4.7,2022-11-22,1
+SUP0035,Iyer Auto Pvt Ltd,Aryan Iyer,contact@iyeraut.com,9148872110,Mumbai,Maharashtra,157174,Automotive,27HYQTC1200O8Z8,60,3.7,2022-07-20,1
+SUP0036,Kumar Toys Pvt Ltd,Shreya Kumar,contact@kumartoy.com,9719571745,Delhi,Delhi,760021,Toys & Baby,31BDOHZ2940O7Z4,60,3.9,2023-02-05,1
+SUP0037,Bajaj Beau Pvt Ltd,Varun Bajaj,contact@bajajbea.com,9164671796,Surat,Gujarat,739244,Beauty & Health,33CTQGC4929E2Z3,15,3.8,2023-06-11,1
+SUP0038,Pillai Beau Pvt Ltd,Dhruv Pillai,contact@pillaibea.com,9854827139,Hyderabad,Telangana,576086,Beauty & Health,12RYUQR4241L9Z4,30,4.8,2022-09-04,1
+SUP0039,Dwivedi Offi Pvt Ltd,Harish Dwivedi,contact@dwivedioff.com,9409893263,Chennai,Tamil Nadu,560485,Office Supplies,13MHKHO8172C1Z7,45,4.2,2022-07-07,0
+SUP0040,Sethi Offi Pvt Ltd,Aditi Sethi,contact@sethioff.com,9821856853,Jaipur,Rajasthan,382602,Office Supplies,28BTMQX3973Z7Z8,15,3.9,2023-01-19,1
+SUP0041,Gandhi Spor Pvt Ltd,Ravi Gandhi,contact@gandhispo.com,9632005813,Bengaluru,Karnataka,402218,Sports & Fitness,31YVOLI6296D7Z9,15,4.3,2023-03-28,1
+SUP0042,Sethi Spor Pvt Ltd,Vishal Sethi,contact@sethispo.com,9635252889,Pune,Maharashtra,755788,Sports & Fitness,24TFOYL8941D4Z3,45,4.1,2023-04-02,1
+SUP0043,Patil Groc Pvt Ltd,Arjun Patil,contact@patilgro.com,9993506934,Delhi,Delhi,261450,Grocery,25YHSKM8736G9Z3,60,3.4,2023-04-26,1
+SUP0044,Das Beau Pvt Ltd,Jyoti Das,contact@dasbea.com,9464938258,Delhi,Delhi,632401,Beauty & Health,18VHHPZ9022W8Z9,60,3.7,2023-04-02,1
+SUP0045,Nair Book Pvt Ltd,Chetan Nair,contact@nairboo.com,9713963047,Kolkata,West Bengal,501574,Books,17WKIMX7246K3Z8,15,3.3,2023-04-22,1
+SUP0046,Sen Fash Pvt Ltd,Sneha Sen,contact@senfas.com,9116479358,Ahmedabad,Gujarat,251157,Fashion,23WZBUG7512Q6Z9,60,4.9,2023-05-10,1
+SUP0047,Kumar Elec Pvt Ltd,Vishal Kumar,contact@kumarele.com,9352082631,Pune,Maharashtra,761820,Electronics,31XZTLC2646L5Z1,15,3.6,2022-07-22,1
+SUP0048,Das Book Pvt Ltd,Sneha Das,contact@dasboo.com,9707660630,Bengaluru,Karnataka,288803,Books,15EPJRM3344G5Z8,45,4.3,2023-02-17,1
+SUP0049,Srivastava Groc Pvt Ltd,Rahul Srivastava,contact@srivastavagro.com,9421214426,Delhi,Delhi,769975,Grocery,23RLHZW2747G6Z5,45,3.0,2023-05-27,1
+SUP0050,Banerjee Offi Pvt Ltd,Harish Banerjee,contact@banerjeeoff.com,9994253959,Mumbai,Maharashtra,400096,Office Supplies,34UPJQQ3240Q1Z5,60,3.1,2022-12-27,1
+SUP0051,Das Spor Pvt Ltd,Harish Das,contact@dasspo.com,9288592093,Chennai,Tamil Nadu,310548,Sports & Fitness,14UWJNH3695G8Z5,45,4.6,2023-02-18,1
+SUP0052,Tripathi Toys Pvt Ltd,Omkar Tripathi,contact@tripathitoy.com,9492747974,Hyderabad,Telangana,194689,Toys & Baby,35KGDJT5295P6Z2,30,3.9,2023-05-07,0
+SUP0053,Sen Fash Pvt Ltd,Alok Sen,contact@senfas.com,9852775879,Hyderabad,Telangana,416869,Fashion,30KDYHM2592G9Z3,60,3.9,2023-06-02,0
+SUP0054,Arora Offi Pvt Ltd,Harish Arora,contact@aroraoff.com,9265917699,Surat,Gujarat,535037,Office Supplies,30CMKYA7070F8Z4,45,3.2,2023-06-10,0
+SUP0055,Iyer Elec Pvt Ltd,Rajesh Iyer,contact@iyerele.com,9303805386,Kolkata,West Bengal,228093,Electronics,24CFQZB6464G3Z4,15,4.7,2023-04-03,1
+SUP0056,Agarwal Spor Pvt Ltd,Jyoti Agarwal,contact@agarwalspo.com,9946799779,Hyderabad,Telangana,724932,Sports & Fitness,10HZZOU2801R1Z3,15,3.7,2022-10-23,1
+SUP0057,Bhatia Elec Pvt Ltd,Aryan Bhatia,contact@bhatiaele.com,9552002959,Chennai,Tamil Nadu,651640,Electronics,13TMUNC9254F1Z9,45,3.9,2022-07-09,1
+SUP0058,Ahuja Fash Pvt Ltd,Shreya Ahuja,contact@ahujafas.com,9576271425,Surat,Gujarat,177060,Fashion,12IDDQP6327J9Z5,60,4.0,2023-01-30,1
+SUP0059,Ghosh Book Pvt Ltd,Rohit Ghosh,contact@ghoshboo.com,9345343109,Pune,Maharashtra,533914,Books,20VKSII5176J3Z8,15,3.2,2022-08-06,1
+SUP0060,Singh Home Pvt Ltd,Tanvi Singh,contact@singhhom.com,9729712082,Kolkata,West Bengal,688866,Home & Kitchen,27IDJRT1842Z5Z6,15,4.2,2022-10-10,1
+SUP0061,Tripathi Spor Pvt Ltd,Omkar Tripathi,contact@tripathispo.com,9494665673,Delhi,Delhi,220465,Sports & Fitness,34HFLOT1430P5Z1,30,3.5,2022-11-29,1
+SUP0062,Bose Offi Pvt Ltd,Ashish Bose,contact@boseoff.com,9174716780,Bengaluru,Karnataka,248766,Office Supplies,33QATFK6585E5Z6,15,4.8,2022-09-11,1
+SUP0063,Kulkarni Beau Pvt Ltd,Sachin Kulkarni,contact@kulkarnibea.com,9555282394,Delhi,Delhi,609253,Beauty & Health,29LHTCL5640R8Z9,45,3.1,2023-01-12,1
+SUP0064,Mehta Book Pvt Ltd,Jyoti Mehta,contact@mehtaboo.com,9920511515,Chennai,Tamil Nadu,367931,Books,19IATEJ4770N6Z2,60,4.7,2022-07-15,1
+SUP0065,Roy Spor Pvt Ltd,Varun Roy,contact@royspo.com,9715683222,Delhi,Delhi,524068,Sports & Fitness,32QHKZE8538V6Z2,60,4.7,2022-10-26,1
+SUP0066,Rao Toys Pvt Ltd,Pallavi Rao,contact@raotoy.com,9900801837,Delhi,Delhi,456005,Toys & Baby,17IENCN6724J3Z4,15,3.3,2022-10-03,1
+SUP0067,Choudhury Home Pvt Ltd,Jyoti Choudhury,contact@choudhuryhom.com,9630554118,Delhi,Delhi,586490,Home & Kitchen,34OPRWQ6295W6Z3,60,3.1,2023-02-05,1
+SUP0068,Mukherjee Elec Pvt Ltd,Rahul Mukherjee,contact@mukherjeeele.com,9179661615,Jaipur,Rajasthan,425486,Electronics,24LBVBW2479P9Z7,60,4.2,2022-07-15,1
+SUP0069,Chaudhary Spor Pvt Ltd,Vikram Chaudhary,contact@chaudharyspo.com,9638339044,Hyderabad,Telangana,258189,Sports & Fitness,11LVVZC3827B8Z8,30,3.7,2022-11-15,1
+SUP0070,Choudhury Elec Pvt Ltd,Kartik Choudhury,contact@choudhuryele.com,9795038832,Jaipur,Rajasthan,450905,Electronics,12IOKGW3463I3Z6,45,4.9,2023-06-16,1
+SUP0071,Khanna Beau Pvt Ltd,Tanvi Khanna,contact@khannabea.com,9790945624,Delhi,Delhi,444432,Beauty & Health,14RVTRN7937N1Z6,45,3.4,2022-10-11,1
+SUP0072,Kumar Home Pvt Ltd,Deepak Kumar,contact@kumarhom.com,9417604347,Hyderabad,Telangana,206053,Home & Kitchen,26UVWAI3147P3Z3,30,4.7,2023-05-09,1
+SUP0073,Arora Spor Pvt Ltd,Bhavna Arora,contact@aroraspo.com,9355046107,Surat,Gujarat,565776,Sports & Fitness,29HTLNI8684X4Z6,60,3.9,2022-11-15,1
+SUP0074,Saxena Book Pvt Ltd,Lakshmi Saxena,contact@saxenaboo.com,9248604290,Bengaluru,Karnataka,362147,Books,11QWOCV3042H3Z5,60,4.8,2022-09-07,0
+SUP0075,Kapoor Groc Pvt Ltd,Rakesh Kapoor,contact@kapoorgro.com,9128636900,Hyderabad,Telangana,535050,Grocery,11KJKCF6221Y6Z3,30,3.1,2023-02-20,1
+SUP0076,Sharma Groc Pvt Ltd,Vishal Sharma,contact@sharmagro.com,9185068029,Ahmedabad,Gujarat,119927,Grocery,18FDYPL5720G2Z1,30,3.8,2023-05-08,1
+SUP0077,Verma Offi Pvt Ltd,Suresh Verma,contact@vermaoff.com,9778556450,Ahmedabad,Gujarat,640410,Office Supplies,28GDLPG7825E2Z9,45,3.1,2023-03-20,1
+SUP0078,Khanna Auto Pvt Ltd,Aditi Khanna,contact@khannaaut.com,9604803700,Pune,Maharashtra,145649,Automotive,30KJTJB4950T2Z6,30,3.1,2023-03-30,1
+SUP0079,Yadav Groc Pvt Ltd,Alok Yadav,contact@yadavgro.com,9971339002,Ahmedabad,Gujarat,241403,Grocery,12SYAFU1686I5Z9,60,5.0,2023-03-29,1
+SUP0080,Walia Beau Pvt Ltd,Rahul Walia,contact@waliabea.com,9151329185,Hyderabad,Telangana,787584,Beauty & Health,20HULKL7334I3Z8,60,3.7,2023-03-16,1
+SUP0081,Saxena Fash Pvt Ltd,Rohit Saxena,contact@saxenafas.com,9982982227,Surat,Gujarat,289222,Fashion,27HCIHL7981E8Z6,60,3.1,2022-12-21,1
+SUP0082,Choudhury Fash Pvt Ltd,Ashish Choudhury,contact@choudhuryfas.com,9536164913,Mumbai,Maharashtra,480959,Fashion,26URYDP8179A2Z4,45,3.7,2023-04-10,1
+SUP0083,Ghosh Spor Pvt Ltd,Raj Ghosh,contact@ghoshspo.com,9919355714,Ahmedabad,Gujarat,180620,Sports & Fitness,28DJIHY1424T8Z9,60,4.8,2022-08-23,1
+SUP0084,Pillai Book Pvt Ltd,Vishal Pillai,contact@pillaiboo.com,9845156039,Ahmedabad,Gujarat,615060,Books,16DWLXL2438V6Z6,15,4.1,2022-11-19,1
+SUP0085,Reddy Spor Pvt Ltd,Shweta Reddy,contact@reddyspo.com,9230311939,Bengaluru,Karnataka,310743,Sports & Fitness,35DUAOJ3126P2Z2,45,3.8,2023-02-24,1
+SUP0086,Desai Fash Pvt Ltd,Aryan Desai,contact@desaifas.com,9789705810,Jaipur,Rajasthan,177767,Fashion,24MNDVO3981T3Z7,15,4.7,2023-03-16,1
+SUP0087,Chatterjee Book Pvt Ltd,Rahul Chatterjee,contact@chatterjeeboo.com,9404994549,Kolkata,West Bengal,182690,Books,18FYHQP2530N3Z3,30,4.3,2023-04-29,0
+SUP0088,Gupta Elec Pvt Ltd,Ananya Gupta,contact@guptaele.com,9788755699,Mumbai,Maharashtra,704788,Electronics,18QTKQM9938H5Z8,30,4.6,2023-06-09,1
+SUP0089,Das Home Pvt Ltd,Sachin Das,contact@dashom.com,9619960692,Mumbai,Maharashtra,587002,Home & Kitchen,16IDWIZ6658Z3Z6,15,3.6,2023-02-17,1
+SUP0090,Pillai Fash Pvt Ltd,Akash Pillai,contact@pillaifas.com,9512477736,Bengaluru,Karnataka,745270,Fashion,23GWEIP6123E3Z8,60,4.0,2022-11-28,1
+SUP0091,Nair Auto Pvt Ltd,Sandeep Nair,contact@nairaut.com,9331009561,Surat,Gujarat,711680,Automotive,21BHPVR5681N2Z7,30,4.8,2022-12-28,1
+SUP0092,Tiwari Offi Pvt Ltd,Tanvi Tiwari,contact@tiwarioff.com,9489256938,Mumbai,Maharashtra,680096,Office Supplies,19BNTHZ2946D2Z7,45,4.6,2022-12-14,1
+SUP0093,Bose Offi Pvt Ltd,Shweta Bose,contact@boseoff.com,9636954564,Hyderabad,Telangana,142210,Office Supplies,11BSUND9446D6Z3,60,5.0,2022-11-24,1
+SUP0094,Ahuja Auto Pvt Ltd,Shreya Ahuja,contact@ahujaaut.com,9704435323,Pune,Maharashtra,414353,Automotive,25VJRZP1436P5Z4,15,4.2,2022-09-19,1
+SUP0095,Jain Home Pvt Ltd,Madhuri Jain,contact@jainhom.com,9360056579,Surat,Gujarat,133104,Home & Kitchen,28YCAID4340K8Z1,30,4.0,2023-04-07,1
+SUP0096,Sen Spor Pvt Ltd,Gaurav Sen,contact@senspo.com,9672440825,Surat,Gujarat,458955,Sports & Fitness,27JUSQS8932E4Z5,45,3.4,2022-11-23,1
+SUP0097,Kapoor Spor Pvt Ltd,Sanjay Kapoor,contact@kapoorspo.com,9701818966,Ahmedabad,Gujarat,386741,Sports & Fitness,19DRJZV3399H5Z2,45,4.8,2023-05-25,1
+SUP0098,Tripathi Auto Pvt Ltd,Mohit Tripathi,contact@tripathiaut.com,9847508242,Hyderabad,Telangana,384815,Automotive,14CTGBX4697Q1Z2,60,3.7,2023-02-20,1
+SUP0099,Mishra Auto Pvt Ltd,Uma Mishra,contact@mishraaut.com,9536913550,Mumbai,Maharashtra,784607,Automotive,25MFZIQ2465Q4Z9,15,4.8,2022-09-21,1
+SUP0100,Banerjee Toys Pvt Ltd,Kartik Banerjee,contact@banerjeetoy.com,9300050585,Mumbai,Maharashtra,403528,Toys & Baby,11AOCZH9901N3Z9,60,3.5,2022-08-20,1
+SUP0101,Bhatia Home Pvt Ltd,Aarav Bhatia,contact@bhatiahom.com,9461971444,Chennai,Tamil Nadu,409355,Home & Kitchen,28RFPQK8007N2Z7,15,3.4,2022-09-03,0
+SUP0102,Nair Beau Pvt Ltd,Rajan Nair,contact@nairbea.com,9579678614,Mumbai,Maharashtra,379963,Beauty & Health,20HSAQS2017R8Z5,30,3.8,2023-03-08,1
+SUP0103,Bajaj Beau Pvt Ltd,Raj Bajaj,contact@bajajbea.com,9337135066,Delhi,Delhi,329772,Beauty & Health,14MLZJS8714T4Z4,15,4.1,2023-03-21,1
+SUP0104,Tripathi Fash Pvt Ltd,Akash Tripathi,contact@tripathifas.com,9642762599,Jaipur,Rajasthan,311976,Fashion,28NEWLR9008C9Z8,15,3.9,2023-03-13,1
+SUP0105,Rao Groc Pvt Ltd,Bhavna Rao,contact@raogro.com,9876616079,Pune,Maharashtra,122827,Grocery,22GAFBL2044O1Z2,60,3.1,2023-01-19,1
+SUP0106,Khanna Spor Pvt Ltd,Sheetal Khanna,contact@khannaspo.com,9581613078,Surat,Gujarat,495833,Sports & Fitness,22CZWDW2943E9Z7,30,4.5,2022-10-16,1
+SUP0107,Arora Groc Pvt Ltd,Bhavna Arora,contact@aroragro.com,9684593732,Chennai,Tamil Nadu,544730,Grocery,27JFLEE2848A7Z1,30,3.4,2022-08-14,1
+SUP0108,Gupta Book Pvt Ltd,Harish Gupta,contact@guptaboo.com,9531929128,Mumbai,Maharashtra,560285,Books,17OTUDZ4836V6Z6,30,3.6,2022-09-05,1
+SUP0109,Tripathi Beau Pvt Ltd,Akash Tripathi,contact@tripathibea.com,9735297732,Chennai,Tamil Nadu,283640,Beauty & Health,30ROBIQ7244U6Z7,60,3.3,2023-01-02,1
+SUP0110,Ahuja Book Pvt Ltd,Nikhil Ahuja,contact@ahujaboo.com,9254996504,Hyderabad,Telangana,585517,Books,11OZODG4331I2Z8,45,3.2,2022-09-29,1
+SUP0111,Kumar Offi Pvt Ltd,Aditya Kumar,contact@kumaroff.com,9302038796,Jaipur,Rajasthan,716126,Office Supplies,33RFFXH1251F4Z2,60,4.8,2023-06-15,1
+SUP0112,Walia Auto Pvt Ltd,Pooja Walia,contact@waliaaut.com,9403932500,Hyderabad,Telangana,499152,Automotive,24NJGNM2615U8Z6,30,3.7,2023-01-21,1
+SUP0113,Tripathi Elec Pvt Ltd,Meera Tripathi,contact@tripathiele.com,9727099478,Bengaluru,Karnataka,707275,Electronics,33KDIJV9180O6Z5,60,4.9,2023-05-18,1
+SUP0114,Arora Home Pvt Ltd,Aryan Arora,contact@arorahom.com,9686849648,Kolkata,West Bengal,612036,Home & Kitchen,15XOQBA2217Y1Z1,60,3.3,2023-05-12,1
+SUP0115,Sen Book Pvt Ltd,Shweta Sen,contact@senboo.com,9500721199,Mumbai,Maharashtra,163386,Books,29QYXRA9719O1Z1,45,4.1,2022-11-17,1
+SUP0116,Shah Home Pvt Ltd,Anjali Shah,contact@shahhom.com,9663054538,Surat,Gujarat,256130,Home & Kitchen,17ENVGK7112Y8Z4,30,3.6,2022-08-04,1
+SUP0117,Khanna Fash Pvt Ltd,Rajesh Khanna,contact@khannafas.com,9504982743,Mumbai,Maharashtra,679549,Fashion,25BAEML6427O2Z9,15,3.5,2023-06-13,1
+SUP0118,Shukla Beau Pvt Ltd,Sheetal Shukla,contact@shuklabea.com,9705064109,Delhi,Delhi,790077,Beauty & Health,11EWAFD7525Y5Z3,30,4.1,2023-01-09,1
+SUP0119,Gandhi Home Pvt Ltd,Kartik Gandhi,contact@gandhihom.com,9877564713,Surat,Gujarat,182237,Home & Kitchen,26TICGB7499Z6Z1,45,4.6,2023-02-09,1
+SUP0120,Jain Toys Pvt Ltd,Gaurav Jain,contact@jaintoy.com,9729078621,Surat,Gujarat,792764,Toys & Baby,22CQUSC3526J3Z7,45,3.7,2022-08-09,1
+SUP0121,Patel Fash Pvt Ltd,Aryan Patel,contact@patelfas.com,9301210399,Chennai,Tamil Nadu,551914,Fashion,24ONCCO6315W1Z5,60,3.8,2022-08-06,1
+SUP0122,Mishra Offi Pvt Ltd,Sneha Mishra,contact@mishraoff.com,9835852444,Hyderabad,Telangana,499226,Office Supplies,15DHMBL7899H2Z6,45,4.9,2023-05-10,1
+SUP0123,Rao Fash Pvt Ltd,Aryan Rao,contact@raofas.com,9107266407,Ahmedabad,Gujarat,514913,Fashion,20VJWLL3230H4Z8,45,3.4,2023-01-13,1
+SUP0124,Nair Offi Pvt Ltd,Kartik Nair,contact@nairoff.com,9449917685,Ahmedabad,Gujarat,494322,Office Supplies,18VKCOP9939E9Z1,60,4.9,2022-10-09,1
+SUP0125,Banerjee Toys Pvt Ltd,Bhavna Banerjee,contact@banerjeetoy.com,9249442440,Delhi,Delhi,764100,Toys & Baby,19GRSUB8851P9Z9,60,4.1,2022-12-25,1
+SUP0126,Walia Fash Pvt Ltd,Anjali Walia,contact@waliafas.com,9366535973,Jaipur,Rajasthan,789545,Fashion,31JQBZR7547Z6Z7,15,3.0,2022-11-03,1
+SUP0127,Dwivedi Offi Pvt Ltd,Chetan Dwivedi,contact@dwivedioff.com,9337331022,Pune,Maharashtra,567432,Office Supplies,21KUPNI1402M5Z7,15,3.2,2022-09-04,1
+SUP0128,Kapoor Auto Pvt Ltd,Sanjay Kapoor,contact@kapooraut.com,9611275626,Hyderabad,Telangana,202365,Automotive,24SLBBS1370W2Z3,30,4.0,2023-04-02,1
+SUP0129,Bose Book Pvt Ltd,Lakshmi Bose,contact@boseboo.com,9776199993,Ahmedabad,Gujarat,293411,Books,15QLAPF8037K4Z4,45,4.5,2022-07-26,1
+SUP0130,Desai Home Pvt Ltd,Raj Desai,contact@desaihom.com,9311606895,Pune,Maharashtra,579776,Home & Kitchen,13GWNQP7431P6Z6,60,4.2,2023-06-03,1
+SUP0131,Jain Offi Pvt Ltd,Ananya Jain,contact@jainoff.com,9243825321,Jaipur,Rajasthan,428399,Office Supplies,13GDJDK3258O7Z3,60,4.3,2023-06-14,0
+SUP0132,Pillai Home Pvt Ltd,Shreya Pillai,contact@pillaihom.com,9250642261,Pune,Maharashtra,296187,Home & Kitchen,20VQWYM4196V9Z9,60,3.8,2023-03-02,1
+SUP0133,Dwivedi Home Pvt Ltd,Ananya Dwivedi,contact@dwivedihom.com,9133136428,Ahmedabad,Gujarat,331241,Home & Kitchen,19AFHUO9115O2Z2,45,4.6,2022-12-28,1
+SUP0134,Roy Auto Pvt Ltd,Kiran Roy,contact@royaut.com,9209968815,Ahmedabad,Gujarat,785424,Automotive,34GWAGW2425L2Z4,30,4.6,2023-04-21,1
+SUP0135,Bajaj Toys Pvt Ltd,Divya Bajaj,contact@bajajtoy.com,9249502403,Jaipur,Rajasthan,316656,Toys & Baby,16UONPE5794H5Z9,15,3.3,2023-01-20,1
+SUP0136,Agarwal Home Pvt Ltd,Manish Agarwal,contact@agarwalhom.com,9863854401,Bengaluru,Karnataka,437742,Home & Kitchen,17TRMPG7786J2Z2,60,4.0,2022-11-13,1
+SUP0137,Srivastava Groc Pvt Ltd,Pooja Srivastava,contact@srivastavagro.com,9102655449,Ahmedabad,Gujarat,197666,Grocery,33ZQSWU7516F7Z4,60,3.5,2022-11-16,1
+SUP0138,Malhotra Groc Pvt Ltd,Kartik Malhotra,contact@malhotragro.com,9832884547,Jaipur,Rajasthan,150760,Grocery,11CULDW8230L7Z4,30,4.8,2022-11-25,0
+SUP0139,Chopra Fash Pvt Ltd,Ankita Chopra,contact@choprafas.com,9368853440,Chennai,Tamil Nadu,186424,Fashion,21RQBQS4836L2Z2,15,3.4,2022-08-02,1
+SUP0140,Gandhi Elec Pvt Ltd,Aarav Gandhi,contact@gandhiele.com,9468909933,Ahmedabad,Gujarat,226451,Electronics,23SMFCU2690I5Z3,60,4.5,2022-08-31,1
+SUP0141,Bajaj Offi Pvt Ltd,Aarav Bajaj,contact@bajajoff.com,9797953888,Pune,Maharashtra,272088,Office Supplies,24JFTXQ8248W2Z2,30,4.5,2023-04-21,1
+SUP0142,Mehta Spor Pvt Ltd,Kartik Mehta,contact@mehtaspo.com,9366058599,Surat,Gujarat,390421,Sports & Fitness,30COPPU1439W5Z4,30,4.5,2022-11-22,1
+SUP0143,Joshi Groc Pvt Ltd,Rajan Joshi,contact@joshigro.com,9358859561,Hyderabad,Telangana,623850,Grocery,30PNZZY3162K7Z6,30,4.5,2022-07-31,1
+SUP0144,Singh Book Pvt Ltd,Aditya Singh,contact@singhboo.com,9947493681,Chennai,Tamil Nadu,517307,Books,26HSTLK9791N3Z5,15,3.6,2023-03-12,1
+SUP0145,Choudhury Toys Pvt Ltd,Vijay Choudhury,contact@choudhurytoy.com,9919505668,Kolkata,West Bengal,781406,Toys & Baby,31QILYG5005C7Z2,60,4.2,2022-07-22,1
+SUP0146,Ahuja Fash Pvt Ltd,Aarav Ahuja,contact@ahujafas.com,9247330045,Bengaluru,Karnataka,111901,Fashion,15MJNVG7092D5Z2,15,3.7,2023-01-29,1
+SUP0147,Sen Fash Pvt Ltd,Shreya Sen,contact@senfas.com,9648447868,Jaipur,Rajasthan,477617,Fashion,11MOJGC2889F9Z1,15,4.7,2022-06-30,1
+SUP0148,Gupta Home Pvt Ltd,Gaurav Gupta,contact@guptahom.com,9693634042,Surat,Gujarat,787554,Home & Kitchen,23FGXIV7108D1Z3,30,4.6,2022-07-17,1
+SUP0149,Patel Beau Pvt Ltd,Pooja Patel,contact@patelbea.com,9693877361,Chennai,Tamil Nadu,578933,Beauty & Health,10JHUTG7033P8Z4,30,3.3,2023-01-19,1
+SUP0150,Sethi Spor Pvt Ltd,Aarav Sethi,contact@sethispo.com,9805774632,Mumbai,Maharashtra,494552,Sports & Fitness,33SCNGM1981Z3Z5,15,3.1,2022-10-20,1
+SUP0151,Patel Groc Pvt Ltd,Harish Patel,contact@patelgro.com,9723597716,Kolkata,West Bengal,200219,Grocery,26DVBOL3141G5Z6,60,4.4,2022-12-08,1
+SUP0152,Walia Book Pvt Ltd,Aryan Walia,contact@waliaboo.com,9926938633,Delhi,Delhi,713110,Books,13EEMKN4401L8Z5,15,3.2,2023-06-10,1
+SUP0153,Desai Elec Pvt Ltd,Kiran Desai,contact@desaiele.com,9259261469,Jaipur,Rajasthan,195643,Electronics,32GJNRG3848A7Z8,30,3.2,2022-08-15,1
+SUP0154,Bose Home Pvt Ltd,Kavya Bose,contact@bosehom.com,9499689381,Hyderabad,Telangana,760914,Home & Kitchen,30CPXBZ4239X8Z3,15,4.8,2022-12-10,0
+SUP0155,Dwivedi Home Pvt Ltd,Uma Dwivedi,contact@dwivedihom.com,9565098113,Mumbai,Maharashtra,514186,Home & Kitchen,25AREFE5585L3Z1,30,4.3,2023-03-06,1
+SUP0156,Khanna Fash Pvt Ltd,Mohit Khanna,contact@khannafas.com,9247356051,Mumbai,Maharashtra,539599,Fashion,16QUGZO1319Z6Z8,60,3.7,2023-04-09,1
+SUP0157,Saxena Elec Pvt Ltd,Pooja Saxena,contact@saxenaele.com,9335171142,Bengaluru,Karnataka,130726,Electronics,35UBZNT4813Z2Z4,30,3.5,2022-07-22,1
+SUP0158,Yadav Spor Pvt Ltd,Uma Yadav,contact@yadavspo.com,9289086333,Surat,Gujarat,348041,Sports & Fitness,28ITJPS6761Y3Z4,60,4.1,2022-09-21,1
+SUP0159,Verma Offi Pvt Ltd,Kunal Verma,contact@vermaoff.com,9665269791,Hyderabad,Telangana,601207,Office Supplies,10IPUIE6301B3Z3,15,4.7,2022-12-27,1
+SUP0160,Malhotra Offi Pvt Ltd,Anjali Malhotra,contact@malhotraoff.com,9424017866,Surat,Gujarat,438273,Office Supplies,14ZTLQM6198E9Z6,30,4.3,2022-09-21,1
+SUP0161,Arora Home Pvt Ltd,Gaurav Arora,contact@arorahom.com,9101930485,Chennai,Tamil Nadu,700660,Home & Kitchen,22WUOEI4619Q2Z8,30,3.7,2022-08-02,0
+SUP0162,Ahuja Fash Pvt Ltd,Madhuri Ahuja,contact@ahujafas.com,9819433407,Bengaluru,Karnataka,770147,Fashion,33XLGGB5205U1Z1,60,3.9,2023-01-24,1
+SUP0163,Khanna Spor Pvt Ltd,Suresh Khanna,contact@khannaspo.com,9208908082,Surat,Gujarat,602780,Sports & Fitness,35WQREB1547H6Z5,15,3.1,2022-09-19,1
+SUP0164,Saxena Fash Pvt Ltd,Priya Saxena,contact@saxenafas.com,9758896006,Pune,Maharashtra,606186,Fashion,32AYEXE2659I4Z7,45,4.3,2022-11-23,1
+SUP0165,Banerjee Auto Pvt Ltd,Nandini Banerjee,contact@banerjeeaut.com,9264915937,Jaipur,Rajasthan,157152,Automotive,21ACVQM2589A3Z5,15,3.9,2022-08-22,1
+SUP0166,Patil Beau Pvt Ltd,Ananya Patil,contact@patilbea.com,9684250873,Ahmedabad,Gujarat,506351,Beauty & Health,15JJEBL5315F5Z1,30,4.5,2023-05-31,1
+SUP0167,Srivastava Toys Pvt Ltd,Ishaan Srivastava,contact@srivastavatoy.com,9344289964,Pune,Maharashtra,680493,Toys & Baby,11VVKNW8779O4Z8,45,3.2,2023-06-24,1
+SUP0168,Bajaj Offi Pvt Ltd,Bhavna Bajaj,contact@bajajoff.com,9258320719,Pune,Maharashtra,226124,Office Supplies,34LYEFF1699L7Z4,30,4.7,2022-11-03,1
+SUP0169,Tripathi Fash Pvt Ltd,Rajan Tripathi,contact@tripathifas.com,9526656677,Delhi,Delhi,678870,Fashion,20WNXAS9561U2Z7,30,3.3,2023-04-21,0
+SUP0170,Walia Fash Pvt Ltd,Varun Walia,contact@waliafas.com,9208437656,Delhi,Delhi,399990,Fashion,27WWGRO8750A5Z7,30,4.2,2023-06-07,1
+SUP0171,Bhatia Book Pvt Ltd,Akash Bhatia,contact@bhatiaboo.com,9610261646,Kolkata,West Bengal,381631,Books,21AVHHM2609Z4Z3,45,4.9,2023-02-05,1
+SUP0172,Ghosh Fash Pvt Ltd,Kavya Ghosh,contact@ghoshfas.com,9326978821,Jaipur,Rajasthan,526949,Fashion,33MNJBU2075I9Z7,30,4.6,2023-03-19,1
+SUP0173,Gupta Elec Pvt Ltd,Manish Gupta,contact@guptaele.com,9590108029,Hyderabad,Telangana,153015,Electronics,21SHVNQ3029R4Z6,60,4.2,2022-09-22,1
+SUP0174,Menon Home Pvt Ltd,Nandini Menon,contact@menonhom.com,9904190892,Kolkata,West Bengal,194782,Home & Kitchen,19ABWUF4626Q4Z5,60,4.0,2023-06-08,0
+SUP0175,Sharma Offi Pvt Ltd,Lakshmi Sharma,contact@sharmaoff.com,9340271240,Bengaluru,Karnataka,364650,Office Supplies,29UHZQL7168W8Z5,30,3.9,2023-06-05,1
+SUP0176,Mukherjee Fash Pvt Ltd,Aarav Mukherjee,contact@mukherjeefas.com,9811198748,Jaipur,Rajasthan,492408,Fashion,27QPHCB5529Q5Z5,45,3.4,2023-03-15,1
+SUP0177,Desai Toys Pvt Ltd,Ashish Desai,contact@desaitoy.com,9830955923,Jaipur,Rajasthan,246726,Toys & Baby,33AMHXK1578P4Z6,30,4.4,2023-05-16,0
+SUP0178,Mishra Auto Pvt Ltd,Nikhil Mishra,contact@mishraaut.com,9806108387,Kolkata,West Bengal,685365,Automotive,15HMTSO3999Y6Z2,30,3.7,2022-11-28,1
+SUP0179,Pillai Beau Pvt Ltd,Vijay Pillai,contact@pillaibea.com,9597959181,Kolkata,West Bengal,223502,Beauty & Health,25BQPQM4187N7Z9,45,3.8,2022-09-09,1
+SUP0180,Desai Groc Pvt Ltd,Deepak Desai,contact@desaigro.com,9868443155,Jaipur,Rajasthan,289117,Grocery,34CIZIB8406H3Z3,60,4.6,2022-08-08,1
+SUP0181,Chaudhary Toys Pvt Ltd,Rohit Chaudhary,contact@chaudharytoy.com,9511582876,Surat,Gujarat,104895,Toys & Baby,11NSYXT9700E1Z4,30,4.4,2022-12-17,1
+SUP0182,Mishra Offi Pvt Ltd,Nikhil Mishra,contact@mishraoff.com,9170101400,Pune,Maharashtra,147939,Office Supplies,19YLNNL3192I8Z6,30,3.3,2023-01-16,1
+SUP0183,Verma Book Pvt Ltd,Geeta Verma,contact@vermaboo.com,9733177858,Bengaluru,Karnataka,629146,Books,15DSUJQ9761Q1Z2,15,3.1,2022-08-22,1
+SUP0184,Gandhi Beau Pvt Ltd,Sanjay Gandhi,contact@gandhibea.com,9264418972,Pune,Maharashtra,315477,Beauty & Health,32RAKCN3247K2Z9,15,3.6,2022-08-17,1
+SUP0185,Kapoor Auto Pvt Ltd,Kavya Kapoor,contact@kapooraut.com,9855309458,Chennai,Tamil Nadu,529660,Automotive,19EOXRM4842A2Z2,60,3.3,2022-08-09,1
+SUP0186,Reddy Beau Pvt Ltd,Ankita Reddy,contact@reddybea.com,9590432899,Delhi,Delhi,410401,Beauty & Health,18MCEBH6123L2Z2,15,3.0,2022-09-02,1
+SUP0187,Iyer Groc Pvt Ltd,Vishal Iyer,contact@iyergro.com,9887125715,Kolkata,West Bengal,197466,Grocery,21VEKZH7319R8Z7,30,3.2,2023-06-15,0
+SUP0188,Srivastava Fash Pvt Ltd,Ravi Srivastava,contact@srivastavafas.com,9618268171,Bengaluru,Karnataka,696580,Fashion,31LPUPW3140M8Z2,60,3.9,2022-07-26,1
+SUP0189,Dwivedi Offi Pvt Ltd,Geeta Dwivedi,contact@dwivedioff.com,9340501969,Pune,Maharashtra,454733,Office Supplies,26NSCRG6664R7Z3,15,3.0,2022-09-12,1
+SUP0190,Sethi Home Pvt Ltd,Amit Sethi,contact@sethihom.com,9627902980,Ahmedabad,Gujarat,436208,Home & Kitchen,17IHNOJ4850C8Z8,15,4.7,2023-02-07,0
+SUP0191,Das Fash Pvt Ltd,Rajesh Das,contact@dasfas.com,9138474240,Mumbai,Maharashtra,684194,Fashion,27ACPQH9328O8Z6,45,4.7,2022-10-16,1
+SUP0192,Ahuja Offi Pvt Ltd,Sanjay Ahuja,contact@ahujaoff.com,9805627914,Jaipur,Rajasthan,480941,Office Supplies,32LCRAJ5783O6Z2,15,4.8,2023-03-03,1
+SUP0193,Bajaj Fash Pvt Ltd,Meera Bajaj,contact@bajajfas.com,9310369078,Surat,Gujarat,296653,Fashion,13YKLUS2765T1Z2,60,3.9,2023-04-21,0
+SUP0194,Singh Auto Pvt Ltd,Harish Singh,contact@singhaut.com,9694022242,Mumbai,Maharashtra,553834,Automotive,28MNXEP3103C6Z9,60,3.8,2023-05-01,1
+SUP0195,Ghosh Spor Pvt Ltd,Neha Ghosh,contact@ghoshspo.com,9964144020,Surat,Gujarat,239850,Sports & Fitness,14KSTHS6143S9Z4,30,3.4,2023-06-24,1
+SUP0196,Shukla Home Pvt Ltd,Shweta Shukla,contact@shuklahom.com,9845511804,Bengaluru,Karnataka,767814,Home & Kitchen,20STOPY7839R9Z5,60,4.6,2023-03-18,1
+SUP0197,Iyer Elec Pvt Ltd,Kavya Iyer,contact@iyerele.com,9905505027,Mumbai,Maharashtra,268752,Electronics,19RDBUF9866A8Z2,30,4.5,2023-04-07,1
+SUP0198,Khanna Elec Pvt Ltd,Uma Khanna,contact@khannaele.com,9516133637,Chennai,Tamil Nadu,536801,Electronics,35ZIOAG8259V6Z9,30,4.6,2022-10-01,1
+SUP0199,Bhatia Home Pvt Ltd,Gaurav Bhatia,contact@bhatiahom.com,9651738859,Delhi,Delhi,225151,Home & Kitchen,22BHGEV1092I3Z1,30,4.9,2023-04-25,0
+SUP0200,Dwivedi Beau Pvt Ltd,Shreya Dwivedi,contact@dwivedibea.com,9690729993,Jaipur,Rajasthan,475479,Beauty & Health,12UIFEB9276E9Z9,60,3.2,2022-10-15,1
